@@ -1,0 +1,31 @@
+.bgr-gray{
+    background-color: #0F172A !important;
+    height: 6rem;
+}
+.rhap_time{
+    color:white !important;
+}
+
+::selection {
+    background: transparent;
+    color:aquamarine;
+
+}
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #325a50;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #379299;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #00aeff;
+  }
